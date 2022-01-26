@@ -5,7 +5,7 @@ Add an issue here: https://github.com/TheWalkingZed/TWZ-Issue-Tracker/issues
 
 Issue format: 
 
-InGame Name:
-Discord ID (Including the # numbers):
-Description of issue:
-Any supporting Files/Images:  
+* InGame Name:
+* Discord ID (Including the # numbers):
+* Description of issue:
+* Any supporting Files/Images:  
